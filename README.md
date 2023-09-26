@@ -1,4 +1,4 @@
-![logo]("https://github.com/Darshan9692/Darshan9692/blob/main/coding-1853305.jpg")
+![logo](https://github.com/Darshan9692/Darshan9692/blob/main/coding-1853305.jpg)
 <h1 align="center">Hi 👋, I'm Darshan Panchal</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 
