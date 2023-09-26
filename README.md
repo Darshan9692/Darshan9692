@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Darshan Panchal</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 
+<img align="right" alt="coding" src="https://res.cloudinary.com/dijdjkiqv/image/upload/v1695738622/GIF/iexvfpdmgvveo0vlgno7.gif">
+
 
 - 🌱 I’m currently learning **new technologies associated with web development**
 
